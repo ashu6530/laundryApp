@@ -4,8 +4,10 @@ Welcome to the Laundry App repository! This mobile application, built using Reac
 
 ## Demo
 
-![Demo GIF](![LaundryApp](https://github.com/ashu6530/laundryApp/assets/82864661/2aff87af-6656-45eb-9d79-bd7f14d31240)
-)
+![Demo GIF](https://github.com/ashu6530/laundryApp/assets/82864661/2aff87af-6656-45eb-9d79-bd7f14d31240)
+
+
+
 
 
 
