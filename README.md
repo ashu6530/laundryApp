@@ -2,11 +2,11 @@
 
 Welcome to the Laundry App repository! This mobile application, built using React Native Expo, offers a seamless laundry management experience. With features like real-time location tracking, user authentication, and Firebase integration, managing your laundry has never been easier.
 
-## Demo Video
+## Demo
 
-Watch a demo of the Laundry App in action!
+![Demo GIF](![LaundryApp](https://github.com/ashu6530/laundryApp/assets/82864661/2aff87af-6656-45eb-9d79-bd7f14d31240)
+)
 
-[![Demo Video](https://img.youtube.com/vi/5bdAyU70dv8/0.jpg)](https://www.youtube.com/watch?v=5bdAyU70dv8)
 
 
 ## Features
@@ -28,6 +28,12 @@ Watch a demo of the Laundry App in action!
   - **Order Screen:** Shows a congratulatory message after placing an order.
   - **Pickup Screen:** Allows users to select date, time, and address for pickup.
   - **Profile Screen:** Displays user data and provides an option to log out.
+
+## Demo Video
+
+Watch a demo of the Laundry App in action!
+
+[![Demo Video](https://img.youtube.com/vi/5bdAyU70dv8/0.jpg)](https://www.youtube.com/watch?v=5bdAyU70dv8)
 
 ## Installation
 
